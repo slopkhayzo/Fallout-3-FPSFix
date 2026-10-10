@@ -1,0 +1,34 @@
+/research/
+
+# CMake build trees and generated files
+/build*/
+/out/
+/research/
+/dist/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+build.ninja
+.ninja_deps
+.ninja_log
+
+# Compiler and linker outputs
+*.dll
+*.exe
+*.exp
+*.ilk
+*.lib
+*.obj
+*.pdb
+
+# Runtime telemetry
+Fallout3HFR.csv
+Fallout3HFR.log
+
+# IDE and OS metadata
+.vs/
+.vscode/
+*.suo
+*.user
+.DS_Store
+Thumbs.db
