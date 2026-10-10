@@ -1,5 +1,15 @@
 # Fallout3HFR
 
+> [!WARNING]
+> This patch has been pretty much entirely been generated using AI; 
+> I won't and will never claim to have enough knowledge or expertise to do this 
+> kind of reverse-engineering by myself; I've tested about 2-3 hours of gameplay (reached the GNR Building Plaza) at 360hz + 
+> briefly tested at 120, 144 and 240 and so far spotted 
+> no major issues (on my machine ofc, if you have issues feel free to open an Issue)
+> this patch currently probably only works for the latest GOG version of the game, I do have 
+> the Steam version too but still have to test that, so no guarantees for now.
+> If you're interested and want more (human generated) info, I have a blog post [here](https://slop-blog.enkhayzomachines.net/posts/fallout-3-high-fps-ril) :)
+
 Fallout3HFR is a high-frame-rate patch for Fallout 3. It keeps the game
 simulation at 60 ticks per second while rendering and interpolating motion at
 the display frame rate. This provides smooth motion above 60 FPS without
